@@ -573,7 +573,8 @@
     const songs = [
         '让风告诉你-花玲.喵.酱.宴宁.kinsen',
         '轻涟 La vaguelette-HOYOMiX',
-        '我不曾忘记-花玲.张安琪.沐霏'
+        '我不曾忘记-花玲.张安琪.沐霏',
+        '璃月杯中明月-原神'
     ];
     let audios = [];
     songs.forEach((item) => {
@@ -581,8 +582,8 @@
         audios.push({
             name: name,
             artist: artist,
-            url: `${musicDir}${item}/song.mp3`,
-            cover: `${musicDir}${item}/cover.jpg`
+            url: musicDir + encodeURIComponent(item) + '/song.mp3',
+            cover: musicDir + encodeURIComponent(item) + '/cover.jpg'
         });
     });
 
