@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on My Blog</title>
-        <link>https://neuqZhan/mrzhan.github.io/en/page/</link>
+        <link>https://neuqzhan.github.io/mrzhan.github.io/en/page/</link>
         <description>Recent content in Pages on My Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuqZhan/mrzhan.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuqzhan.github.io/mrzhan.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>About</title>
-            <link>https://neuqZhan/mrzhan.github.io/en/about/</link>
+            <link>https://neuqzhan.github.io/mrzhan.github.io/en/about/</link>
             <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-            <guid>https://neuqZhan/mrzhan.github.io/en/about/</guid>
+            <guid>https://neuqzhan.github.io/mrzhan.github.io/en/about/</guid>
             <description>&lt;h2 id=&#34;about-this-site&#34;&gt;About This Site&#xA;&lt;/h2&gt;&lt;p&gt;This is my personal blog for recording life and technology.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-the-author&#34;&gt;About the Author&#xA;&lt;/h2&gt;&lt;p&gt;Hello! I am a developer who loves technology and enjoys exploring new technologies and sharing experiences.&lt;/p&gt;&#xA;&lt;h3 id=&#34;skills&#34;&gt;Skills&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Frontend&lt;/strong&gt;: HTML, CSS, JavaScript, Vue, React&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Backend&lt;/strong&gt;: Node.js, Python, Go&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Tools&lt;/strong&gt;: Git, Docker, Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/yourname&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;yourname&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Twitter&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://twitter.com/yourname&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;&#xA;    &gt;@yourname&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
         </item><item>
             <title>Archives</title>
-            <link>https://neuqZhan/mrzhan.github.io/en/archives/</link>
+            <link>https://neuqzhan.github.io/mrzhan.github.io/en/archives/</link>
             <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-            <guid>https://neuqZhan/mrzhan.github.io/en/archives/</guid>
+            <guid>https://neuqzhan.github.io/mrzhan.github.io/en/archives/</guid>
             <description></description>
         </item><item>
             <title>Search</title>
-            <link>https://neuqZhan/mrzhan.github.io/en/search/</link>
+            <link>https://neuqzhan.github.io/mrzhan.github.io/en/search/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>https://neuqZhan/mrzhan.github.io/en/search/</guid>
+            <guid>https://neuqzhan.github.io/mrzhan.github.io/en/search/</guid>
             <description></description>
         </item></channel>
 </rss>
