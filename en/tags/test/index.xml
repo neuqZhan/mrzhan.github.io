@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on My Blog</title>
+        <link>https://neuqZhan/mrzhan.github.io/en/tags/test/</link>
+        <description>Recent content in Test on My Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuqZhan/mrzhan.github.io/en/tags/test/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Test Post</title>
+            <link>https://neuqZhan/mrzhan.github.io/en/p/test-post/</link>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+            <guid>https://neuqZhan/mrzhan.github.io/en/p/test-post/</guid>
+            <description>&lt;p&gt;This is a test post to verify that categories and tags are working correctly.&lt;/p&gt;&#xA;&lt;h2 id=&#34;feature-test&#34;&gt;Feature Test&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Category: Tutorial&lt;/li&gt;&#xA;&lt;li&gt;Tags: test, Hugo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;If you can see this post, it means the Hugo site is running properly!&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
